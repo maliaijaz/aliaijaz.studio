@@ -1,0 +1,30 @@
+@font-face {
+  font-family: walbaumregular;
+  src: url('../fonts/walbaum/walbaumregular.ttf');
+}
+
+body {
+	font-family: walbaumregular !important;
+	color: black;
+	letter-spacing: 2px;
+}
+
+div.footer-container > a {
+	color: black !important;
+}
+
+.black-text {
+	color: black !important;
+}
+
+a.modal-trigger {
+	color: black !important;
+}
+
+a {
+	color: black !important;
+}
+
+.title-container {
+	font-size: 12px;
+}
